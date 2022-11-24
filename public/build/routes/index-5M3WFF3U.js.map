@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../../app/routes/index.tsx"],
+  "sourcesContent": ["import { Link } from \"@remix-run/react\";\n\nexport default function Index() {\n  return <>\n    <h1>Home Page</h1>\n    <Link to='/index'></Link>\n  </>\n}\n"],
+  "mappings": ";;;;;;;AAAA;AAEe,SAAR,QAAyB;AAC9B,SAAO;AAAA,IACL;AAAA,yDAAC;AAAA,QAAG;AAAA,SAAJ;AAAA;AAAA;AAAA;AAAA,aAAa;AAAA,MACb,mDAAC;AAAA,QAAK,IAAG;AAAA,SAAT;AAAA;AAAA;AAAA;AAAA,aAAkB;AAAA;AAAA,KAFb;AAAA;AAAA;AAAA;AAAA,SAGP;AACF;",
+  "names": []
+}

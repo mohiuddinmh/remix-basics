@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../../app/routes/index.tsx"],
+  "sourcesContent": ["import { Link } from \"@remix-run/react\";\n\nexport default function Index() {\n  return <>\n    <h1>Pappa Page</h1>\n    <Link to='/demo'>Demo</Link>\n  </>\n}\n"],
+  "mappings": ";;;;;;;AAAA;AAEe,SAAR,QAAyB;AAC9B,SAAO;AAAA,IACL;AAAA,yDAAC;AAAA,QAAG;AAAA,SAAJ;AAAA;AAAA;AAAA;AAAA,aAAc;AAAA,MACd,mDAAC;AAAA,QAAK,IAAG;AAAA,QAAQ;AAAA,SAAjB;AAAA;AAAA;AAAA;AAAA,aAAqB;AAAA;AAAA,KAFhB;AAAA;AAAA;AAAA;AAAA,SAGP;AACF;",
+  "names": []
+}

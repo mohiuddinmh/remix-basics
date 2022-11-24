@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../../app/routes/demo.tsx"],
+  "sourcesContent": ["import { Link } from \"@remix-run/react\";\n\nexport default function Demo(){\n  return<>\n    <h2>This is the dsemo page</h2>\n    <Link to=\"/\">Home Page</Link>\n  </>\n}"],
+  "mappings": ";;;;;;;AAAA;AAEe,SAAR,OAAuB;AAC5B,SAAM;AAAA,IACJ;AAAA,yDAAC;AAAA,QAAG;AAAA,SAAJ;AAAA;AAAA;AAAA;AAAA,aAA0B;AAAA,MAC1B,mDAAC;AAAA,QAAK,IAAG;AAAA,QAAI;AAAA,SAAb;AAAA;AAAA;AAAA;AAAA,aAAsB;AAAA;AAAA,KAFlB;AAAA;AAAA;AAAA;AAAA,SAGN;AACF;",
+  "names": []
+}
