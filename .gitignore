@@ -9,3 +9,4 @@ tailwind.css
 .DS_Store
 dist
 dist.zip
+/build/
